@@ -6,10 +6,10 @@ pre-configured for the **Bash Minecraft server** (`mc.telfin.io`).
 ## Download
 
 **Direct download (share this link with players):**
-<https://github.com/nution101/telfin-pack/releases/download/v1.0.0/Bash-BetterLooks-1.0.0.mrpack>
+<https://github.com/nution101/telfin-pack/releases/download/v1.1.0/Bash-BetterLooks-1.1.0.mrpack>
 
 - **Repo:** <https://github.com/nution101/telfin-pack>
-- **Latest release:** [v1.0.0](https://github.com/nution101/telfin-pack/releases/tag/v1.0.0)
+- **Latest release:** [v1.1.0](https://github.com/nution101/telfin-pack/releases/tag/v1.1.0)
 
 ## Install (players)
 
@@ -28,7 +28,15 @@ Matches server version **Minecraft 1.21.11 (Fabric)**.
 - [Fabric API](https://modrinth.com/mod/fabric-api) — required for the other mods
 - [Iris Shaders](https://modrinth.com/mod/iris) — shader support
 - [Sodium](https://modrinth.com/mod/sodium) — performance overhaul (also required for Iris)
+- [Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat) — matches the server's voice chat plugin
+- [YetAnotherConfigLib (YACL)](https://modrinth.com/mod/yacl) — shared config UI lib
+- [Fps Overlay](https://modrinth.com/mod/fps-overlay) — on-screen FPS display
 - [Complementary Reimagined](https://modrinth.com/shader/complementary-reimagined) — shader pack, pre-enabled
+
+**Not bundled (CurseForge-only, add manually if you want them):**
+Controllable + Framework (MrCrayfish). These are only on CurseForge, which Modrinth
+packs can't reference directly. After importing the pack, open the instance in Prism →
+**Mods tab → Download Mods → search CurseForge** to add them in ~30 seconds.
 
 Overrides bundled in the pack:
 
