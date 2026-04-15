@@ -3,6 +3,24 @@
 Prism Launcher modpack that adds shaders + performance mods to vanilla Minecraft,
 pre-configured for the **Bash Minecraft server** (`mc.telfin.io`).
 
+## Download
+
+**Direct download (share this link with players):**
+<https://github.com/nution101/telfin-pack/releases/download/v1.0.0/Bash-BetterLooks-1.0.0.mrpack>
+
+- **Repo:** <https://github.com/nution101/telfin-pack>
+- **Latest release:** [v1.0.0](https://github.com/nution101/telfin-pack/releases/tag/v1.0.0)
+
+## Install (players)
+
+1. **Copy the download URL above.**
+2. In **Prism Launcher** (https://prismlauncher.org):
+   - **Add Instance → Import → From URL**, paste the link, OR
+   - Download the `.mrpack` file and drag-and-drop it onto Prism.
+3. **Launch the new instance.** Shaders are already on, `mc.telfin.io` is already in your multiplayer list — just click Join.
+
+Using the **Modrinth App** (https://modrinth.com/app) works too: drag-and-drop the `.mrpack` onto the app window.
+
 ## What's in it
 
 Matches server version **Minecraft 1.21.11 (Fabric)**.
@@ -17,17 +35,6 @@ Overrides bundled in the pack:
 - `servers.dat` — `mc.telfin.io` pre-added as "Bash Server"
 - `config/iris.properties` — Complementary selected + shaders enabled
 - `options.txt` — fabulous graphics, render distance 12
-
-## Install
-
-Using **Prism Launcher** (https://prismlauncher.org):
-
-1. Download `Bash-BetterLooks-1.0.0.mrpack` from the latest release.
-2. In Prism: **Add Instance → Import → From File → pick the `.mrpack`**.
-3. Launch the new instance. Server is already in your multiplayer list. Shaders are on. Play.
-
-Using the **Modrinth App** (https://modrinth.com/app):
-drag-and-drop the `.mrpack` onto the app window.
 
 ## Notes
 
